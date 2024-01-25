@@ -1,15 +1,16 @@
 # Pre-Meeting Notes
 
 ## Meeting Details
-- **Date:**
-- **Time:**
-- **Location:**
-- **Facilitator:**
+- **Date:** 2024-01-25
+- **Time:** 3:00 PM MST
+- **Location:** Big Conference Room
+- **Facilitator:** Cibele/Ty
 
 ## Attendees
 - List of attendees
 
 ## Agenda
+Getting to know Cyverse and Github resources.
 
 ### 1. Opening Remarks
 - Brief welcome and overview of the meeting's objectives.
