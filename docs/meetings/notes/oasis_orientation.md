@@ -37,5 +37,3 @@ Getting to know Cyverse and Github resources.
 ## Action Items
 - [ ] Update the OASIS website: Rob - Soonish?
 
-
-...
