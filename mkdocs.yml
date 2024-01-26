@@ -12,7 +12,7 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 
 # Page tree
 nav:
-  - Home: ../README.md
+  - Home: README.md
   - Meeting notes:
        - meetings/index.md  
   - Resources:
