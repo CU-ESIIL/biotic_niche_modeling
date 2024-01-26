@@ -27,7 +27,7 @@ nav:
   - Notes:
        - OASIS orientation: resources/pre_meeting_notes.md
   - Meeting notes:
-    - meetings/index.md
+       - meetings/index.md
   - Code documentation:
        - Data processing: resources/data_processing.md
        - Data analysis: resources/data_analysis.md
@@ -92,4 +92,4 @@ plugins:
           ignore_h1_titles: True
     - blog:
           blog_dir: meetings
-          post_dir: notes
+          post_dir: meetings/notes
