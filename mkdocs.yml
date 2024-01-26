@@ -94,3 +94,4 @@ plugins:
           blog_dir: meetings
           post_dir: meetings/notes
           archive: false
+          categories: false
