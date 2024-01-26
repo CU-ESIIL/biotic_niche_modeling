@@ -27,7 +27,7 @@ nav:
   - Notes:
        - OASIS orientation: resources/pre_meeting_notes.md
   - Meeting notes:
-    - meetings/README.md
+    - meetings/index.md
   - Code documentation:
        - Data processing: resources/data_processing.md
        - Data analysis: resources/data_analysis.md
