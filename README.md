@@ -19,17 +19,14 @@ In addition to AM fungal presences derived from LSU amplicon sequencing, I plan 
 
 [List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
 
-- **Collaborator 1**: Brief description.
-- **Collaborator 2**: Brief description.
-- ...
+- **[James D. Bever](https://eeb.ku.edu/people/james-bever)**: Brief description.
+- **[Jorge Soberón](https://eeb.ku.edu/people/jorge-soberon)**: a distinguished professor in the department of Ecology and Evolutionary Biology of KU, works mostly on the theoretical aspects of niche modeling and geographic patterns of biodiversity.
 
 ## Code Repository
 
-This section of the repository will include all the code developed for the project. You can structure it as follows:
-
-- **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
-- **Data Processing**: Scripts for cleaning, merging, and managing datasets.
-- **Visualization**: Code for creating figures, charts, and interactive visualizations.
+- **[Analysis Code](https://github.com/CU-ESIIL/biotic_niche_modeling/tree/main/analysis)**: Scripts for data analysis, statistical modeling, etc.
+- **[Data Processing](https://github.com/CU-ESIIL/biotic_niche_modeling/tree/main/processing)**: Scripts for cleaning, merging, and managing datasets.
+- **[Visualization](https://github.com/CU-ESIIL/biotic_niche_modeling/tree/main/visualization)**: Code for creating figures, charts, and interactive visualizations.
 
 ## Meeting Notes and Agendas
 

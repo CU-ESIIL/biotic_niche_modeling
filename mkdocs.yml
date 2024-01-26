@@ -1,10 +1,10 @@
 site_name: 'ESIIL Postdoctoral Researcher OASIS'
 site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
+site_author: Rob Ramos
 site_url: https://cu-esiil.github.io/biotic_niche_modeling/
 
 # Repository
-repo_name: Postdoc_OASIS
+repo_name: biotic_niche_modeling
 repo_url: https://github.com/CU-ESIIL/biotic_niche_modeling
 edit_uri: edit/main/docs/
 # Copyright
@@ -26,6 +26,8 @@ nav:
        - Working groups: resources/working_groups_and_postdocs.md
   - Notes:
        - OASIS orientation: resources/pre_meeting_notes.md
+  - Meeting notes:
+    - meetings/index.md
   - Code documentation:
        - Data processing: resources/data_processing.md
        - Data analysis: resources/data_analysis.md
@@ -43,8 +45,8 @@ theme:
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
-  logo: 'assets/ESIIL_logo.png'
-  favicon: 'assets/favicon.ico'
+  logo: 'assets/esiil_content/ESIIL_logo.png'
+  favicon: 'assets/esiil_content/favicon.ico'
   # setting features for the navigation tab
   features:
     - navigation.sections
@@ -88,3 +90,6 @@ plugins:
     - mkdocs-jupyter:
           include_source: True
           ignore_h1_titles: True
+    - blog:
+      blog_dir: meetings
+      post_dir: notes

@@ -12,24 +12,26 @@ My proposed research will utilize both ribosomal LSU amplicon sequencing and pla
 
 In addition to AM fungal presences derived from LSU amplicon sequencing, I plan to utilize host plant presence data from the GBIF database. The GBIF database is one of the largest species occurrence databases publicly available, and is actively pursuing the goal of being a resource for species distribution modeling (Anderson et. al., 2016, “Are species occurrence data in global online repositories fit for modeling species distributions? The case of the Global Biodiversity Information Facility (GBIF)”. GBIF Secretariat). Spatial bias in occurrence data is a documented issue in GBIF data, with the United States being one of the over-represented regions in the database (Rocchini et. al., 2023. “A quixotic view of spatial bias in modelling the distribution of species and their diversity”. Npj Biodiversity, 2:1). For this reason and because of the high number of AM Fungal studies conducted with North American AM fungal species, I propose to limit the geographic extent of my modeling efforts to the contiguous United States (Delavaux et. al., 2017, “Beyond nutrients: A meta-analysis of the diverse effects of arbuscular mycorrhizal fungi on plants and soils.” Ecology, 98:8).
 
-## Collaborators
-- ...
+## Collaborators and Co-Authors 
+
+[List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
+
+- **[James D. Bever](https://eeb.ku.edu/people/james-bever)**: Brief description.
+- **[Jorge Soberón](https://eeb.ku.edu/people/jorge-soberon)**: a distinguished professor in the department of Ecology and Evolutionary Biology of KU, works mostly on the theoretical aspects of niche modeling and geographic patterns of biodiversity.
 
 ## Code Repository
 
-This section of the repository will include all the code developed for the project. You can structure it as follows:
-
-- **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
-- **Data Processing**: Scripts for cleaning, merging, and managing datasets.
-- **Visualization**: Code for creating figures, charts, and interactive visualizations.
+- **[Analysis Code](https://github.com/CU-ESIIL/biotic_niche_modeling/tree/main/analysis)**: Scripts for data analysis, statistical modeling, etc.
+- **[Data Processing](https://github.com/CU-ESIIL/biotic_niche_modeling/tree/main/processing)**: Scripts for cleaning, merging, and managing datasets.
+- **[Visualization](https://github.com/CU-ESIIL/biotic_niche_modeling/tree/main/visualization)**: Code for creating figures, charts, and interactive visualizations.
 
 ## Meeting Notes and Agendas
 
-Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.
+When you meet with your advisor, collaborators, or a team, you should take notes here. 
 
 ## Contributing to This Repository
 
-We welcome contributions from all group members. To maintain the quality and integrity of the repository, please adhere to the following guidelines:
+To maintain the quality and integrity of the repository, please adhere to the following guidelines:
 
 - Make sure all commits have a clear and concise message.
 - Document any major changes or decisions in the meeting notes.
@@ -45,7 +47,7 @@ As a new working group, you'll want to make this repository your own. Here's how
 
 1. **Edit This Readme**: Replace the placeholder content with information about your specific project. Ensure that the introduction, project overview, and objectives clearly reflect your group's research focus.
 
-2. **Update Group Member Bios**: Add details about each group member's expertise, role in the project, and professional background. Include links to personal or professional web pages to foster community engagement and collaboration.
+2. **Update Bio**: Add details about your expertise, role in the project, and professional background. Include links to personal or professional web pages to foster community engagement and collaboration.
 
 3. **Organize Your Code**: Structure your codebase in a way that is logical and accessible. Use directories and clear naming conventions to make it easy for all members to find and contribute to different parts of the project.
 
@@ -64,4 +66,3 @@ As a new working group, you'll want to make this repository your own. Here's how
 10. **Establish Communication Channels**: Beyond GitHub, set up additional communication channels like Slack, Discord, or email lists for quick and informal discussions.
 
 Remember, the goal is to make your repository clear, accessible, and useful for all current and future members of your working group. Happy researching!
-
