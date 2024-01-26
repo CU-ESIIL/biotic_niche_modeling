@@ -1,4 +1,4 @@
-# [Your Name]
+# Robert J Ramos
 
 Welcome to the Rob Ramos repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting the project description, proposals, bio, codebase, and more.
 
