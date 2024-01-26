@@ -14,9 +14,7 @@ In addition to AM fungal presences derived from LSU amplicon sequencing, I plan 
 
 ## Collaborators and Co-Authors 
 
-[List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
-
-- **[James D. Bever](https://eeb.ku.edu/people/james-bever)**: Brief description.
+- **[James D. Bever](https://eeb.ku.edu/people/james-bever)**: Dr. Bever's research focuses on testing basic ecological and evolutionary processes occurring within plants and their associated fungi. Much of the conceptual basis of ecology and evolution was developed with animals in mind.  Plants and fungi differ from animals in important ways, including their motility, their nutrient acquisition systems and their genetic systems.  Conceptual frameworks building on these peculiarities can be very useful in exploring the dynamics of population and communities of plants and fungi.  Developing, testing, and exploring the implications of these models has been the goal of his work.
 - **[Jorge Soberón](https://eeb.ku.edu/people/jorge-soberon)**: a distinguished professor in the department of Ecology and Evolutionary Biology of KU, works mostly on the theoretical aspects of niche modeling and geographic patterns of biodiversity.
 
 ## Code Repository
