@@ -91,5 +91,5 @@ plugins:
           include_source: True
           ignore_h1_titles: True
     - blog:
-      blog_dir: meetings
-      post_dir: notes
+          blog_dir: meetings
+          post_dir: notes
