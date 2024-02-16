@@ -1,0 +1,15 @@
+name: base
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base
+  - r-Cairo
+  - r-dplyr
+  - r-tidyr
+  - r-duckdb
+  - r-dbplyr
+  - r-ggplot2
+  - r-rentrez
+  - r-xml
+  - bioconductor-biostrings

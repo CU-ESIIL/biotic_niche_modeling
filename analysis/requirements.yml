@@ -1,0 +1,15 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-Cairo
+  - r-dplyr
+  - r-tidyr
+  - r-duckdb
+  - r-dbplyr
+  - r-ggplot2
+  - r-rnaturalearth
+  - r-rnaturalearthdata
+  - r-sf
+  - r-terra
