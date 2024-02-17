@@ -46,11 +46,11 @@ If you encounter any issues or have questions about how to contribute, please re
 
 As a new working group, you'll want to make this repository your own. Here's how to get started:
 
-1. **Edit This Readme**: Replace the placeholder content with information about your specific project. Ensure that the introduction, project overview, and objectives clearly reflect your group's research focus.
+1. ~~**Edit This Readme**: Replace the placeholder content with information about your specific project. Ensure that the introduction, project overview, and objectives clearly reflect your group's research focus.~~
 
-2. **Update Bio**: Add details about your expertise, role in the project, and professional background. Include links to personal or professional web pages to foster community engagement and collaboration.
+2. ~~**Update Bio**: Add details about your expertise, role in the project, and professional background. Include links to personal or professional web pages to foster community engagement and collaboration.~~
 
-3. **Organize Your Code**: Structure your codebase in a way that is logical and accessible. Use directories and clear naming conventions to make it easy for all members to find and contribute to different parts of the project.
+3. ~~**Organize Your Code**: Structure your codebase in a way that is logical and accessible. Use directories and clear naming conventions to make it easy for all members to find and contribute to different parts of the project.~~
 
 4. **Document Your Data**: Include a data directory with README files explaining the datasets, sources, and any preprocessing steps. This will help new members understand and work with the project's data effectively.
 
