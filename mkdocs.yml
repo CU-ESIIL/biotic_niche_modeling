@@ -98,4 +98,7 @@ plugins:
 
 markdown_extensions:
     - pymdownx.snippets:
+          base_path: 
+              - docs
+              - README.md
           check_paths: true
