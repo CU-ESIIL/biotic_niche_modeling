@@ -84,18 +84,18 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - search
-  - mkdocstrings
-  - git-revision-date
-  - mkdocs-jupyter:
-    include_source: True
-    ignore_h1_titles: True
-  - blog:
-    blog_dir: meetings
-    post_dir: meetings/notes
-    archive: false
-    categories: false
+    - search
+    - mkdocstrings
+    - git-revision-date
+    - mkdocs-jupyter:
+          include_source: true
+          ignore_h1_titles: true
+    - blog:
+          blog_dir: meetings
+          post_dir: meetings/notes
+          archive: false
+          categories: false
 
 markdown_extensions:
-  - pymdownx.snippets:
-    check_paths: true
+    - pymdownx.snippets:
+          check_paths: true
