@@ -30,3 +30,6 @@ pymdown-extensions>=9.9.1
 colorama>=0.4
 regex>=2022.4.24
 requests>=2.26
+
+# support snippits
+pymdown-extensions
