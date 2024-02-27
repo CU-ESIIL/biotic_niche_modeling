@@ -1,4 +1,4 @@
-accession	marker	Kingdom	Phylum	Class	Order	Family	Genus	Species
+taxa_id	marker	Kingdom	Phylum	Class	Order	Family	Genus	Species
 AF396782	LSU	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Gigasporaceae	Gigaspora	Gigaspora margarita
 AY639235	LSU	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora	Diversispora celata
 FJ461853	LSU	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae	Septoglomus	Septoglomus viscosum

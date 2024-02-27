@@ -1,0 +1,11 @@
+# Occurances
+"uid"	"sample_id"	"taxon_id"	"marker"	"abundance"	"total"
+
+# Samples
+"id"  "paper_id" "primers"  "longitude" "latitude"  "contient" "sample_type"  "marker_size" "Biome" "MAT" "MAP" "pH"  "year_of_sampling"  "plants_dominant" "target_gene" "sequencing_platform" "Rec"
+
+# taxa
+"acession"  "marker"  "Kingdom" "Phylum" "Class"  "Order" "Family"  "Genus" Species Rec
+
+# ncbi
+"NCBI_idv"  "authors" "journal" "year"  "title" "pubmed_id" "remark" "Rec"

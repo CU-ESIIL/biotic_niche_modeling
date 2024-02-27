@@ -1,0 +1,36 @@
+Site	State	Disturbed_Remnant	Avg_latitude	Avg_longitude	NOAA_AridityIndex	NOAA_Precip	Number_of_samples_collected	Date_Sampled	Soil_nutrient_tests_completed	soil_description	percent_sand-silt-clay	Organic_matter_percent	Known_history_of_soil_distruption
+Klemme	OK	Disturbed	35.39507573	-99.06328218	0.37	659.52	4	2015	No	St. Paul silt loam	25/56/19	2	No
+Hays	KS	Disturbed	38.85727608	-99.38975858	0.33	508.42	4	2015	Yes (for this site)	Harney silt loam	9/67/24	2	Unknown
+Welda	KS	Disturbed	38.17517917	-95.2734155	0.77	932.6	2	2015	No	Kenoma silt loam	6/72/22	3.25	Yes
+Konza	KS	Disturbed	39.101306	-96.61068608	0.66	775.8	3	2015	Yes (for this site)	Irwin silty clay loam	8/59/33	3	Yes
+Osage	MO	Disturbed	37.7531015	-94.32701867	0.93	1125.08	2	2015	Yes (pooled with Taberville and Wah'Kon-Tah)	Barco loam	50/34/16	3.5	Unknown
+Taberville	MO	Disturbed	38.03751	-93.966553	0.93	1125.08	1	2015	Yes (pooled with Osage and Wah'Kon-Tah)	Barco fine sandy loam	65/20/15	2	Unknown
+WahKonTah	MO	Disturbed	37.918751	-94.0076355	0.93	1125.08	1	2015	Yes (pooled with Osage and Taberville)	Bona gravelly silt loam	27/59/14	3.7	Unknown
+Morris	MO	Disturbed	40.3836088	-92.9389252	1.15	1124.8	2	2015	No	Armstrong clay loam	35/34/31	1.5	Unknown
+Rockefeller	KS	Disturbed	39.05142625	-95.19140575	0.68	800.56	2	2015	No	Grundy silty clay loam	4/65/31	3.7	Yes
+Klemme	OK	Remnant	35.41975329	-99.05505886	0.37	659.52	8	2015	Yes (for this site)	Cordell silty clay loam	13/60/27	0.75	NA
+Hays	KS	Remnant	38.85682283	-99.38082858	0.33	508.42	5	2015	Yes (for this site)	Brownell gravelly loam	35/40/25	1.5	NA
+Konza	KS	Remnant	39.0747675	-96.57481869	0.66	775.8	8	2015	Yes (for this site)	Benfield-Florence complex	5/61/34	4	NA
+Rockefeller	KS	Remnant	39.045255	-95.20516083	0.68	800.56	4	2015	Yes (for this site)	Pawnee clay loam	23/48/29	3.5	NA
+Welda	KS	Remnant	38.18098717	-95.26524683	0.77	932.6	4	2015	Yes (for this site)	Wagstaff silty clay loam	60/8/32	5	NA
+Weston	IL	Remnant	40.746575	-88.614962	1.05	978.62	2	2015	No	Ashkum silty clay loam	5/65/30	5	NA
+Sunbury	IL	Remnant	41.084919	-88.604523	1.05	978.62	2	2015	No	Bryce silty clay	5/50/45	5.5	NA
+Goose_Lake	IL	Remnant	41.363385	-88.310368	1.14	1012.44	2	2015	No	Faxon silt loam	20/58/22	5	NA
+Big_Osage	MO	Remnant	37.74267725	-94.330491	0.93	1125.08	2	2015	Yes (pooled with Little Osage)	Barco loam	50/34/16	3.5	NA
+Little_Osage	MO	Remnant	37.76951325	-94.34219075	0.93	1125.08	2	2015	Yes (pooled with Big Osage)	Barco loam	50/24/16	3.5	NA
+WahKonTah	MO	Remnant	37.918058	-94.0065035	0.93	1125.08	2	2015	Yes (pooled with Taberville)	Bona gravelly silt loam	27/59/14	3.7	NA
+Taberville	MO	Remnant	38.056607	-93.96640275	0.93	1125.08	2	2015	Yes (pooled with Wah'Kon-Tah)	Barden silt loam	27/52/21	2.5	NA
+Morris	MO	Remnant	40.38335914	-92.94081314	1.15	1124.8	2	2015	Yes (for this site)	Armstrong clay loam	35/34/31	1.5	NA
+IL_Rte54	IL	Disturbed	40.39647167	-88.4588195	1.02	1009.18	3	2015	Yes (for this site)	Brenton silt loam	8/69/23	4	Yes
+Paxton_East	IL	Disturbed	40.4619665	-88.05861467	1.02	1009.18	3	2015	No	Martinton silt loam	15/62/23	4.5	Yes
+Stillwater	OK	Disturbed	36.05959213	-97.2384445	0.52	759.14	3	2015	No	Zaneis loam	45/37/18	2.5	No
+Stillwater	OK	Remnant	36.06813871	-97.19373271	0.52	759.14	4	2015	No	Zaneis-Huska complex	45/37/18	2.5	NA
+PrairiePines	IL	Disturbed	40.2834194	-88.150725	1.02	1009.18	2	2013	Yes (for each sample)	Drummer silty clay loam	8/61/31	5.5	Yes
+ChanuteDump	IL	Disturbed	40.2849	-88.13255	1.02	1009.18	2	2013	Yes (for each sample)	Orthents, loamy undulating	32/37/31	1.25	Yes
+FtRiley	KS	Remnant	39.1297639	-96.8526083	0.66	775.8	7	2013	Yes (for each sample)	Crete silty clay loam	7/63/30	3	NA
+FtRiley	KS	Disturbed_Brome	39.1205056	-96.8800194	0.66	775.8	6	2013	Yes (for each sample)	Holder silt loam	11/68/21	2	Unknown
+FtRiley	KS	Disturbed_OWB	39.16071	-96.882791	0.66	775.8	6	2013	Yes (for 4 of 6 samples)	Clime-Sogn complex	5/54/41	3	Unknown
+Loda	IL	Remnant	40.5271528	-88.0753528	1.02	1009.18	2	2013	Yes (for each sample)	Clarence silty clay loam	8/58/34	4	NA
+Paxton	IL	Remnant	40.439825	-88.1048667	1.02	1009.18	1	2013	Yes	Swygert silty clay loam	8/60/32	4	NA
+ShortLine	IL	Remnant	40.3057611	-87.997225	1.02	1009.18	1	2013	Yes	Elliot silty clay loam	8/63/29	3.3	NA
+Pellsville	IL	Remnant	40.4610278	-87.9244333	1.02	1009.18	2	2013	Yes (for each sample)	Clarence silty clay loam	8/58/34	4	NA
