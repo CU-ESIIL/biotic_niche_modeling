@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - r-base
-  - r-Cairo
+  - r-cairo
   - r-dplyr
   - r-tidyr
   - r-duckdb
