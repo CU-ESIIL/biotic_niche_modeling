@@ -377,7 +377,7 @@ Markdown can be combined with LaTeX for mathematical notation, useful in environ
 
 - **Inline Math**: Use single dollar signs for inline math expressions. Representing the normal distribution.
 
-  Example: The probability density function of the normal distribution is given by $f(x|\mu,\sigma) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}$.`
+  Example: The probability density function of the normal distribution is given by $f(x|\mu,\sigma) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}$.
 
 - **Display Math**: Use double dollar signs for standalone equations.
 
