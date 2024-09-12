@@ -12,3 +12,4 @@ dependencies:
   - r-ggplot2
   - r-raster
   - r-terra
+  - r-sf
