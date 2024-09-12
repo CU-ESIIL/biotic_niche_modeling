@@ -1,9 +1,11 @@
-name: base
+name: rat
 channels:
   - conda-forge
   - bioconda
 dependencies:
+  - jupyter
   - r-base
+  - r-irkernel
   - r-Cairo
   - r-dplyr
   - r-tidyr
@@ -12,4 +14,5 @@ dependencies:
   - r-ggplot2
   - r-raster
   - r-terra
+  - r-codetools
   - r-sf
