@@ -6,6 +6,7 @@ dependencies:
   - jupyter
   - r-base
   - r-irkernel
+  - r-languageserver
   - r-Cairo
   - r-dplyr
   - r-tidyr
