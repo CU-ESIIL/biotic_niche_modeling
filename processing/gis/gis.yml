@@ -15,4 +15,5 @@ dependencies:
   - r-terra
   - r-sf
   - r-rstac
+  - r-stars
   - r-gdalcubes
