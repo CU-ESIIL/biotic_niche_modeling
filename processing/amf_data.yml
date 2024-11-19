@@ -1,0 +1,17 @@
+name: amf_data
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - jupyter
+  - r-base
+  - r-irkernel
+  - r-Cairo
+  - r-dplyr
+  - r-tidyr
+  - r-duckdb
+  - r-dbplyr
+  - r-ggplot2
+  - r-rentrez
+  - r-xml
+  - bioconductor-biostrings
