@@ -1,0 +1,24 @@
+name: biotic_analysis
+channels:
+  - conda-forge
+  - r
+dependencies:
+  - jupyter
+  - r-base
+  - r-irkernel
+  - r-cairo
+  - r-dplyr
+  - r-tidyr
+  - r-duckdb
+  - r-dbplyr
+  - r-ggplot2
+  - r-rnaturalearth
+  - r-rnaturalearthdata
+  - r-devtools
+  - r-sf
+  - r-terra
+  - r-rastervis
+  - r-tidyterra
+  - r-gdalcubes
+  - r-car
+  - r-corrplot

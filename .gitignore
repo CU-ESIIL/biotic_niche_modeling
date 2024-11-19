@@ -46,3 +46,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Some GIS files I dont want on github
+processing/gis/*/
+processing/gis/gssurgo_1km.nc
+processing/gis/gssurgo_1km.nc.aux.xml
+processing/gis/gis_data_1km.nc

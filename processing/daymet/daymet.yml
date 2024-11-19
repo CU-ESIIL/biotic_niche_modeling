@@ -1,0 +1,13 @@
+name: daymet
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - jupyter
+  - r-base
+  - r-irkernel
+  - r-languageserver
+  - r-Cairo
+  - r-dplyr
+  - r-tidyr
+  - r-purrr
