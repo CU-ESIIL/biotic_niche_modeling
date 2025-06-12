@@ -22,3 +22,4 @@ dependencies:
   - r-gdalcubes
   - r-car
   - r-corrplot
+  - r-hmsc
