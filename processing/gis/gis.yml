@@ -2,6 +2,7 @@ name: gis
 channels:
   - conda-forge
   - bioconda
+  - r
 dependencies:
   - jupyter
   - r-base
@@ -17,3 +18,4 @@ dependencies:
   - r-rstac
   - r-stars
   - r-gdalcubes
+  - r-geodata
