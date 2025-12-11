@@ -3,7 +3,11 @@ channels:
   - conda-forge
   - r
 dependencies:
+  - python=3.11
   - jupyter
+  - compilers
+  - tensorflow
+  - git
   - r-base
   - r-irkernel
   - r-cairo
@@ -14,6 +18,7 @@ dependencies:
   - r-ggplot2
   - r-rnaturalearth
   - r-rnaturalearthdata
+  - r-jsonify
   - r-devtools
   - r-sf
   - r-terra
@@ -24,3 +29,5 @@ dependencies:
   - r-car
   - r-corrplot
   - r-hmsc
+  - pip
+
